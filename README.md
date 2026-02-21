@@ -90,10 +90,6 @@ python main.py
 
 ## 👨‍💻 Author
 
-Samyak Gaikwad
-BE Computer Engineering (2023–2027)
+Samyak Gaikwad  
+BE Computer Engineering (2023–2027)  
 Modern Education Society’s Wadia College of Engineering
-
----
-* Make it **shorter**
-* Or format it to look premium on GitHub (badges, styling, etc.)
